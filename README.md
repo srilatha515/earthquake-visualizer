@@ -65,10 +65,14 @@ Query Example:
 
 https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2024-01-01&endtime=2025-12-31&minmagnitude=5
 
+---
+
 🛠️ Tech Stack
-|Layer	  |Technology              |
-|Backend	||Node.js, Express, Axios|
-|Frontend |	HTML, CSS, JavaScript  |
+Layer	----  Technology              
+Backend----Node.js, Express, Axios
+Frontend ----	HTML, CSS, JavaScript  
+
+---
 Data Source	USGS Earthquake API
 📸 Output Preview
 Earthquake Data Table
