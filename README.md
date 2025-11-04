@@ -35,7 +35,7 @@ earthquake-visualizer/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone this repository
-```bash
+
 git clone https://github.com/yourusername/earthquake-visualizer.git
 cd earthquake-visualizer
 
@@ -66,9 +66,9 @@ Query Example:
 https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2024-01-01&endtime=2025-12-31&minmagnitude=5
 
 🛠️ Tech Stack
-Layer	Technology
-Backend	Node.js, Express, Axios
-Frontend	HTML, CSS, JavaScript
+|Layer	  |Technology              |
+|Backend	||Node.js, Express, Axios|
+|Frontend |	HTML, CSS, JavaScript  |
 Data Source	USGS Earthquake API
 📸 Output Preview
 Earthquake Data Table
