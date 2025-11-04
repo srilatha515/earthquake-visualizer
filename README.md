@@ -68,8 +68,11 @@ https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2024-0
 ---
 
 🛠️ Tech Stack
-Layer	----  Technology              
+
+Layer -----	  Technology 
+
 Backend----Node.js, Express, Axios
+
 Frontend ----	HTML, CSS, JavaScript  
 
 ---
